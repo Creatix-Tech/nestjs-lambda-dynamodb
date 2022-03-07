@@ -42,5 +42,5 @@ yarn dev
 
 This project includes a `docs` folder with more details on:
 
-1.  [Setup and development](https://github.com/rharutyunyan/nestjs-lambda-dynamodb/tree/main/docs/development.md#first-time-setup)
-1.  [Architecture](https://github.com/rharutyunyan/nestjs-lambda-dynamodb/tree/main/docs/architecture.md)
+1.  [Setup and development](Creatix-Tech/-nestjs-lambda-dynamodb/tree/master/docs/development.md#first-time-setup)
+1.  [Architecture](hCreatix-Tech/-nestjs-lambda-dynamodb/tree/master/docs/architecture.md)
